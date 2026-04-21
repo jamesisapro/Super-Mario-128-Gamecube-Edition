@@ -1,4 +1,4 @@
-# Super-Mario-128-Gamecube-Edition
+# Super-Mario-128
 <img width="245" height="206" alt="images (3)" src="https://github.com/user-attachments/assets/46be59f9-f32c-429b-84ac-60958b869a67" />
 
 This is a page for a project that I will be starting.
